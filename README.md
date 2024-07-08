@@ -1,14 +1,25 @@
-<h1 align="center" id="title">Resume Parser</h1>
+# Resume Parser
 
-<p id="description">The Generative AI Resume Parser is a cutting-edge application designed to streamline and enhance the resume parsing process using advanced AI techniques. Traditional resume parsers often struggle with complex formats varying styles and nuanced language leading to inaccuracies in extracting key information. This project addresses these challenges by leveraging the power of Generative AI specifically tailored to understand and interpret diverse resume structures.</p>
+The Generative AI Resume Parser is an innovative application designed to revolutionize the resume parsing process using cutting-edge AI technology. Traditional parsers often struggle with diverse formats and nuanced language, leading to inaccuracies in extracting crucial information. This project addresses these challenges by harnessing Generative AI to intelligently interpret and extract data from a wide range of resume structures.
 
-<h2>🚀 Demo</h2>
+## Getting Started
 
-[https://resumep.streamlit.app/](https://resumep.streamlit.app/)
+### Installation
 
+Ensure all necessary dependencies are installed by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then run the app using
+
+```python
+streamlit run app.py
+```
   
   
-<h2>🧐 Features</h2>
+<h2> Features</h2>
 
 Here're some of the project's best features:
 
@@ -18,10 +29,34 @@ Here're some of the project's best features:
 
   
   
-<h2>💻 Built with</h2>
+<h2> Built with</h2>
 
 Technologies used in the project:
 
 *   Generative AI(Gemini)
 *   Python
 *   Streamlit
+
+
+## Example Usage
+
+### Parsing a Resume
+
+1. Upload a resume file (PDF) through the application interface.
+2. The AI parser processes the document and extracts relevant information such as contact details, skills, work experience, and education.
+3. Users can review and verify the parsed information through the interactive dashboard.
+
+## Future Enhancements
+
+- **Integration with Job Portals**: Automatically parse resumes uploaded by job applicants on recruitment platforms.
+- **Multilingual Support**: Extend parsing capabilities to support resumes in various languages.
+- **Semantic Analysis**: Implement deeper semantic analysis to understand the context and intent behind resume content.
+- **Performance Optimization**: Improve parsing speed and accuracy through model optimization and parallel processing.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, please contact [Sarath Rajendran](mailto:sarath.rajendran.2021@gmail.com).

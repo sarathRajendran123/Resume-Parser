@@ -4,7 +4,15 @@ The Generative AI Resume Parser is an innovative application designed to revolut
 
 ## Getting Started
 
-### Installation
+### Virtual Environment
+
+First, set up a virtual environment to manage dependencies. This helps maintain project consistency and avoid conflicts with other projects.
+
+```bash
+python -m venv venv
+.\venv\Scripts\activate  # For Windows
+source venv/bin/activate  # For macOS/Linux
+```
 
 Ensure all necessary dependencies are installed by running:
 

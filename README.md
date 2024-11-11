@@ -2,6 +2,9 @@
 
 The Generative AI Resume Parser is an innovative application designed to revolutionize the resume parsing process using cutting-edge AI technology. Traditional parsers often struggle with diverse formats and nuanced language, leading to inaccuracies in extracting crucial information. This project addresses these challenges by harnessing Generative AI to intelligently interpret and extract data from a wide range of resume structures.
 
+This Project can be viewed at:
+[sarathrajendran/ResumeParser](https://huggingface.co/spaces/sarathrajendran/ResumeParser)
+
 ## Getting Started
 
 ### Virtual Environment
